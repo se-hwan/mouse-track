@@ -12,7 +12,7 @@ Each can be installed with ```pip install [dependency]``` from ```cmd.exe``` in 
 
 # Installation
 1. Download and install Python 3.7.x from here: https://www.python.org/downloads/windows/
-2. Check that Python is added to the PATH during the installation window.
+2. Ensure that Python is added to the PATH during the installation window.
 3. In the Windows search bar, type ```cmd.exe``` and launch the command prompt.
 4. type ```py --version``` to confirm Python was installed correctly.
 5. Install each of the dependencies above with ```pip install```.
@@ -28,3 +28,8 @@ League:
 
 Dota:
 
+# Future Updates
+- Make plots more visually appealing
+- Analyze mouse position/click data for heatmaps, variances, etc.
+- Compare data over time --> correlation with skill? 
+- Scrape tracking data from streamers/professional games? 
