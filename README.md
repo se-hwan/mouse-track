@@ -16,7 +16,8 @@ Each can be installed with ```pip install [dependency]``` from ```cmd.exe``` in 
 3. In the Windows search bar, type ```cmd.exe``` and launch the command prompt.
 4. type ```py --version``` to confirm Python was installed correctly.
 5. Install each of the dependencies above with ```pip install```.
-6. Download repository and run ```run.bat```.
+6. Run ```main.py``` to begin recording. Press ```Enter``` key inside terminal window to finish recording. 
+7. Modify savefile names or code by editing ```.py``` files in IDLE (right click, edit with)
 
 # Results
 Valorant:
