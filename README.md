@@ -21,12 +21,11 @@ Each can be installed with ```pip install [dependency]``` from ```cmd.exe``` in 
 
 # Results
 Valorant:
-
+![Valorant mouse map](/images/valorant.png)
 Osu:
-
+![Osu mouse map](/images/osu.png)
 League:
-
-Dota:
+![League mouse map](/images/league.png)
 
 # Future Updates
 - Make plots more visually appealing
